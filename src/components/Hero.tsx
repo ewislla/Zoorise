@@ -52,19 +52,21 @@ const Hero: React.FC = () => {
             className="flex flex-col sm:flex-row gap-4 justify-center items-center"
           >
             <a
-              href="https://t.me/zoorisecoin"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-zooOrange text-white px-8 py-4 rounded-full font-montserrat font-semibold text-lg hover:bg-zooOrange-dark transition-all duration-300 hover:scale-105 shadow-lg"
             >
-              🚀 Join Our Pack
+                🚀Buy $ZOO Now 
             </a>
-            <button
-              onClick={scrollToAbout}
+            <a 
+              href="https://t.me/Zoorise"
+              target="_blank"
+              rel="noopener noreferrer"
               className="border-2 border-zooOrange text-zooOrange px-8 py-4 rounded-full font-montserrat font-semibold text-lg hover:bg-zooOrange hover:text-white transition-all duration-300 hover:scale-105"
             >
-              🦁 Learn More
-            </button>
+              🦁Join the Zoo
+            </a>
           </motion.div>
 
           {/* Trust Indicators */}
