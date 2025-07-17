@@ -22,20 +22,14 @@ const About: React.FC = () => {
             
             <div className="space-y-6 text-gray-700 font-poppins text-lg">
               <p>
-                Welcome to ZooriseCoin, where the wild spirit of community meets the innovation of blockchain technology. 
-                We're not just another memecoin - we're building a roaring ecosystem on Solana that puts community first.
+                ZooRise is a gamified Web3 ecosystem where you earn while you care. Built on the Solana blockchain, ZooRise combines the fun of collecting and raising virtual animals with real token utility and community engagement.
               </p>
               
               <p>
-                Born from the passion of crypto enthusiasts who believe in fair launches and transparent tokenomics, 
-                $ZOO represents the future of community-driven projects. Our fair launch on Pumpfun ensures everyone 
-                gets an equal opportunity to join our pack.
+                In ZooRise, every animal has a purpose. Feed them, keep them happy, and watch them shine as they generate $ZOO, our native token. The better you care, the more you earn
               </p>
               
-              <p>
-                Built by the community, for the community. No presale, no team allocation, just pure community power 
-                driving our mission to create something truly wild in the crypto space.
-              </p>
+    
             </div>
 
             {/* Key Features */}

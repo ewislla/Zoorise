@@ -65,7 +65,7 @@ const Hero: React.FC = () => {
               rel="noopener noreferrer"
               className="border-2 border-zooOrange text-zooOrange px-8 py-4 rounded-full font-montserrat font-semibold text-lg hover:bg-zooOrange hover:text-white transition-all duration-300 hover:scale-105"
             >
-              🦁Join the Zoo
+              🦁Join the Community 
             </a>
           </motion.div>
 
