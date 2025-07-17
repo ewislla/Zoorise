@@ -97,21 +97,15 @@ export const FAQ_ITEMS: FAQItem[] = [
 export const SOCIAL_LINKS: SocialLink[] = [
   {
     platform: 'Telegram',
-    url: 'https://t.me/zoorisecoin',
+    url: 'https://t.me/Zoorise',
     icon: '📱',
-    count: '5.2K'
+    count: '150+'
   },
   {
     platform: 'Twitter',
-    url: 'https://twitter.com/zoorisecoin',
+    url: 'https://x.com/zoorisecoin?s=21',
     icon: '🐦',
-    count: '12.8K'
-  },
-  {
-    platform: 'Discord',
-    url: 'https://discord.gg/zoorisecoin',
-    icon: '🎮',
-    count: '3.4K'
+    count: '200+'
   },
 ];
 

@@ -133,7 +133,7 @@ const Community: React.FC = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="https://t.me/zoorisecoin"
+                href="https://t.me/zoorise"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white text-zooOrange px-8 py-4 rounded-full font-montserrat font-semibold text-lg hover:bg-gray-100 transition-colors duration-300"
